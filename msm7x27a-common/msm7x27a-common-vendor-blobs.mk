@@ -25,6 +25,7 @@ PRODUCT_COPY_FILES += \
     vendor/lge/msm7x27a-common/proprietary/lib/egl/libGLESv2_adreno200.so:system/lib/egl/libGLESv2_adreno200.so \
     vendor/lge/msm7x27a-common/proprietary/lib/egl/libGLESv2S3D_adreno200.so:system/lib/egl/libGLESv2S3D_adreno200.so \
     vendor/lge/msm7x27a-common/proprietary/lib/egl/libq3dtools_adreno200.so:system/lib/egl/libq3dtools_adreno200.so \
+    vendor/lge/msm7x27a-common/proprietary/lib/libaudcal.so:system/lib/libaudcal.so \
     vendor/lge/msm7x27a-common/proprietary/lib/libC2D2.so:system/lib/libC2D2.so \
     vendor/lge/msm7x27a-common/proprietary/lib/libdivxdrmdecrypt.so:system/lib/libdivxdrmdecrypt.so \
     vendor/lge/msm7x27a-common/proprietary/lib/libDivxDrm.so:system/lib/libDivxDrm.so \

@@ -17,7 +17,4 @@
 # Pick up overlay for features that depend on non-open-source files
 DEVICE_PACKAGE_OVERLAYS += vendor/lge/msm7x27a-common/overlay
 
-PRODUCT_PACKAGES += \
-    libaudcal.so
-
 $(call inherit-product, vendor/lge/msm7x27a-common/msm7x27a-common-vendor-blobs.mk)
