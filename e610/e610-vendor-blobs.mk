@@ -22,7 +22,6 @@ PRODUCT_COPY_FILES += \
     vendor/lge/e610/proprietary/lib/libchromatix_hi542_preview.so:system/lib/libchromatix_hi542_preview.so \
     vendor/lge/e610/proprietary/vendor/firmware/libpn544_fw.so:system/vendor/firmware/libpn544_fw.so \
     vendor/lge/e610/proprietary/bin/netmgrd:system/bin/netmgrd \
-    vendor/lge/e610/proprietary/bin/qmiproxy:system/bin/qmiproxy \
     vendor/lge/e610/proprietary/bin/qmuxd:system/bin/qmuxd \
     vendor/lge/e610/proprietary/bin/rild:system/bin/rild \
     vendor/lge/e610/proprietary/bin/rmt_storage:system/bin/rmt_storage \
@@ -37,12 +36,8 @@ PRODUCT_COPY_FILES += \
     vendor/lge/e610/proprietary/lib/liblgeat.so:system/lib/liblgeat.so \
     vendor/lge/e610/proprietary/lib/liblge_security.so:system/lib/liblge_security.so \
     vendor/lge/e610/proprietary/lib/liblgsecclk.so:system/lib/liblgsecclk.so \
-    vendor/lge/e610/proprietary/lib/libmmcamera_faceproc.so:system/lib/libmmcamera_faceproc.so \
-    vendor/lge/e610/proprietary/lib/libmmcamera_frameproc.so:system/lib/libmmcamera_frameproc.so \
-    vendor/lge/e610/proprietary/lib/libmmcamera_statsproc31.so:system/lib/libmmcamera_statsproc31.so \
     vendor/lge/e610/proprietary/lib/libnetmgr.so:system/lib/libnetmgr.so \
     vendor/lge/e610/proprietary/lib/libnv.so:system/lib/libnv.so \
-    vendor/lge/e610/proprietary/lib/liboemcamera.so:system/lib/liboemcamera.so \
     vendor/lge/e610/proprietary/lib/liboem_rapi.so:system/lib/liboem_rapi.so \
     vendor/lge/e610/proprietary/lib/liboncrpc.so:system/lib/liboncrpc.so \
     vendor/lge/e610/proprietary/lib/libpbmlib.so:system/lib/libpbmlib.so \
